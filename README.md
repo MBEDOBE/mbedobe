@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MBEDOBE
 - 👀 I’m interested in web design and development
-- 🌱 I’m currently learning React JS on Udacity
+- 🌱 I’m currently junior role in React JS 
 - 💞️ I’m looking to collaborate on projects i can help with.
 - 📫 How to reach me danielbushbaby@gmail.com
 

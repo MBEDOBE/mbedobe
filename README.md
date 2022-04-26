@@ -3,7 +3,7 @@ MBEDOBE/MBEDOBE is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 <div align="center">
-<img src="https://github.com/MBEDOBE/mbedobe/blob/master/greetings.gif" align="center" style="width: 100%, height=30%"  />
+<!--<img src="https://github.com/MBEDOBE/mbedobe/blob/master/greetings.gif" align="center" style="width: 50%, height=30%"  />-->
 </div>  
   
 
@@ -103,5 +103,5 @@ You can click the Preview link to take a look at your changes.
  
 
 <br/> 
-----
+
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

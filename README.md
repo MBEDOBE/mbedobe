@@ -54,8 +54,7 @@ You can click the Preview link to take a look at your changes.
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="70" />  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="70" />  
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="70" />  
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="70" />  
-<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="70" />  
+<img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="70" />   
 <img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="70" />  
 </div>
 
@@ -95,10 +94,14 @@ You can click the Preview link to take a look at your changes.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbedobe&hide_border=true&layout=compact" align="left" padding="20px" style="width: 100%" />  
 
 <br/>  
-<img src="https://github-readme-stats.vercel.app/api?username=mbedobe&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />  
+ 
 
 <br/>  
 
 
+<br/>  
+ 
+
+<br/> 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

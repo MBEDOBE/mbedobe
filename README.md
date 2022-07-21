@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 </div>  
   
 
-### <div align="center">I'm Mbedobe, a full-time frontend freelance developer transitioning to full stack 👨‍💻 I would love to work remotely on projects in React and React Native 🚀</div>  
+### <div align="center">I'm Mbedobe, a frontend freelance developer transitioning to full stack 👨‍💻 I would love to work remotely on projects in React and React Native 🚀</div>  
   
 
 - 🔭 I’m currently learning Data Analysis on [UDACITY](https://www.udacity.com/)  
@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 - ❓ Ask me about anything related to MERN stack, Semantic Html, Css. Bootstrap, Tailwind and other related technologies  
   
 
-- ✉️ contact me via danielmbedobe@gmail.com  
+- ✉️ contact me via danielbushbaby@gmail.com  
   
 
 - ⚡ Fun fact: I teach French language in a senior high school  

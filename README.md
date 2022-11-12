@@ -75,7 +75,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.behance.net/danielmbedobe" target="_blank">
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/https://www.youtube.com/@mbedev" target="_blank">
+<a href="https://www.youtube.com/@mbedev" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/kunji-daniel-mbedobe-90803087" target="_blank">

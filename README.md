@@ -66,14 +66,15 @@ You can click the Preview link to take a look at your changes.
 
 ## Connect with me  
 <div align="center">
+ 
+<a href="https://dkmbedobe.onrender.com" target="_blank">
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fdkmbedobe.onrender.com)
+</a>
 <a href="https://twitter.com/KDMFLASH" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/MBEDOBE" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.behance.net/danielmbedobe" target="_blank">
-<img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.youtube.com/@mbedev" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />

@@ -3,7 +3,7 @@ MBEDOBE/MBEDOBE is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 <div align="center">
-<img src="https://github.com/MBEDOBE/mbedobe/blob/master/greetings.gif" align="center" style="width: 100%" />
+<img src="https://github.com/MBEDOBE/mbedobe/blob/master/greetings.gif" align="center" style="width: 60%" />
 </div>  
   
 
